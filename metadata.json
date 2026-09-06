@@ -1,0 +1,6 @@
+{
+  "name": "Sparkle",
+  "description": "A modern, accessible, and inclusive educational platform for students with personalized learning tools and AI-powered tutor Silo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
