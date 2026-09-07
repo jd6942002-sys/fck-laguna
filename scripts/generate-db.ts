@@ -11,7 +11,7 @@
 
 import fs from "fs";
 import path from "path";
-import { SEED_TEXTBOOKS, SEED_CHAPTERS, SEED_LESSONS } from "../src/server/db.js";
+import { SEED_TEXTBOOKS, SEED_CHAPTERS, SEED_LESSONS } from "../src/server/db.ts";
 
 const snapshot = {
   textbooks: SEED_TEXTBOOKS,
